@@ -1,4 +1,4 @@
-﻿namespace Musakai.Shared.DTOs.Requests.EmailService;
+﻿namespace Musakai.Shared.DTOs.EmailService.Requests;
 
 public sealed class ContactEmailRequest
 {
